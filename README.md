@@ -1,6 +1,6 @@
 # Jotto
 
-This was one of my first c++ console applications I made in high school for my AP CS class.
+This was one of my first c++ console applications I made in high school for my Honors Computer Programming class.
 
 This program lets you play a game of jotto in your console. It also has a top ten leaderboard!
 
